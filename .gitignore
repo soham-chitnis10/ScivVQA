@@ -1,0 +1,12 @@
+ChartMoE/*
+finetune*
+*.out
+*.pth
+*.zip
+*.csv
+*.txt
+*.json
+images*
+*.sbatch
+wandb/*
+__pycache__/*
